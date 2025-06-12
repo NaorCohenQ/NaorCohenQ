@@ -2,6 +2,8 @@
 
 🎓 Recent Software Engineering graduate from **Ben-Gurion University of the Negev**, passionate about building scalable systems and solving real-world problems through technology.
 
+💡 Gained practical experience working on end-to-end software projects in academic settings, following Agile-inspired workflows — from planning and system design to development, testing, and delivery — across areas such as backend services and web-based systems.
+
 💻 I'm mainly focused on **backend** and **full-stack** development, with hands-on experience in:
 - **Languages:** Java, Python, C#, C/C++, JavaScript
 - **Frameworks & Tools:** Spring Boot, Flask, Vaadin, Docker, PostgreSQL
@@ -11,28 +13,21 @@
 
 ### 🚀 Featured Projects
 
+- 🛒 **[E-Commerce Trading Platform](https://github.com/NaorCohenQ/E-Commerce-Trading-Platform)**  
+  A full-stack e-commerce system with features for managing users, products, carts, and real-time transactions.
+  
 - 🔐 **[DNS Protection](https://github.com/NaorCohenQ/DNS-Attack-Detection)**  
   An advanced detection and mitigation system against DNS-based attacks, combining algorithmic analysis and interactive visualizations.
 
-- 🛒 **[E-Commerce Trading Platform](https://github.com/NaorCohenQ/E-Commerce-Trading-Platform)**  
-  A full-stack e-commerce system with features for managing users, products, carts, and real-time transactions.
 
 - 🎟 **[Cinema Booking System](https://github.com/NaorCohenQ/Cinema-Booking)**  
   RESTful Spring Boot API with PostgreSQL & Docker support, allowing users to search, reserve, and manage cinema tickets.
 
 ---
 
-### 📈 GitHub Stats
+### 📬 Get in Touch
 
-![Naor's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaorCohenQ&show_icons=true&theme=default&hide_rank=true)
-
----
-
-### 📬 Let's connect
-
-I’m always eager to collaborate, learn, or chat about software engineering challenges.  
-Feel free to [reach out via GitHub](https://github.com/NaorCohenQ) or check out the pinned repositories above!
-
+Feel free to reach out at **vnaor176@gmail.com** — I’m always happy to connect, collaborate, or discuss interesting software ideas.
 
 
 <!--
