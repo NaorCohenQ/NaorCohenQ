@@ -4,9 +4,10 @@
 
 💡 Gained practical experience working on end-to-end software projects in academic settings, following Agile-inspired workflows — from planning and system design to development, testing, and delivery — across areas such as backend services and web-based systems.
 
-💻 I'm mainly focused on **backend** and **full-stack** development, with hands-on experience in:
+💻 I'm mainly focused on **backend** and **full-stack** development.
 - **Languages:** Java, Python, C#, C/C++, JavaScript
-- **Frameworks & Tools:** Spring Boot, Flask, Vaadin, Docker, PostgreSQL
+- **Frameworks & Tools:** Spring Boot, Flask, Vaadin, Docker, PostgreSQL, ASP.NET, Hibernate, EntityFramework5
+- **Concepts:** OOP, Design Patterns, Networking, System Programming, Databases, Multithreading, Testing
 - **Tech interests:** system-level programming, RESTful APIs, microservices, and cloud-ready architecture
 
 ---
